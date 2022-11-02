@@ -1,7 +1,7 @@
 ![](https://media-exp1.licdn.com/dms/image/C5616AQFv26SwNxHtTA/profile-displaybackgroundimage-shrink_350_1400/0/1659313546908?e=1672876800&v=beta&t=Cpn88ngF1IubxuKbKwBJzprQS8BDFmGuaoY1xPo9nT0)
 
 # I am Darudul Islam
-### MERN Stack Developer || Learning Become a Hobby || Always Like to Keep Me Update with New Technologies
+### MERN Stack Developer || Learning Become a Hobby || Always Like to Keep Me Updated with New Technologies
 
 
 ## 💫 About Me:
